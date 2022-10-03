@@ -1,0 +1,10 @@
+.ingredients-list{
+    margin-bottom: 60px;
+}
+
+.ingredients-list .topic{
+    font-family: 'Playfair Display', serif;
+    font-weight: 100;
+    margin-bottom: 50px;
+    font-size: 1.25rem;
+}

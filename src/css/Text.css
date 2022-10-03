@@ -1,0 +1,24 @@
+.text{
+    font-size:medium;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.white{
+    color: white;
+}
+
+.orange{
+    color: orange;
+}
+
+.gray{
+    color: #ccc;
+}
+
+.large{
+    font-size: larger;
+}
+
+.bold{
+    font-weight: 700;
+}

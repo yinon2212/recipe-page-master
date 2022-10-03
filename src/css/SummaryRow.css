@@ -1,0 +1,22 @@
+.summary-row{
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.summary-row .top{
+    text-transform: uppercase;
+    font-size: x-small;
+    font-weight: 700;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+.summary-row i{
+    font-size: 1.8rem;
+    margin-right: 20px;
+}
+
+.summary-row .orange{
+    color: orange;
+}

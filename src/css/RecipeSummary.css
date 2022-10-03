@@ -1,0 +1,8 @@
+.recipe-summary{
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 50px 60px;
+    border-radius: 10px;
+    box-shadow: 1px 15px 30px rgba(204, 204, 204, 0.494); 
+}

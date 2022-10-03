@@ -1,0 +1,13 @@
+.product-details{
+    display: flex;
+    align-items: flex-start;
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+.product-details .product-complete{
+    margin-right: 20px;
+    width: 18px;
+    outline: none;
+    transform: scale(1.3);
+}
