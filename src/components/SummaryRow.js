@@ -1,6 +1,5 @@
 import React from "react";
 import Text from "./Text";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import '../css/SummaryRow.css';
 
 const SummaryRow = (props) => {
